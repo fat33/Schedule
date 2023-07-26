@@ -1,0 +1,1 @@
+void GetCompVers(QString &vc);

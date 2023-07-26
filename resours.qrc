@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/About_100px.png</file>
+        <file>images/Exit_100px.png</file>
+        <file>images/Export Pdf_100px.png</file>
+        <file>images/File_100px.png</file>
+        <file>images/Open_100px.png</file>
+        <file>images/PDF_100px.png</file>
+        <file>images/Print_100px.png</file>
+        <file>images/Save as_100px.png</file>
+        <file>images/Save_100px.png</file>
+        <file>images/Schedule_100px.png</file>
+    </qresource>
+    <qresource prefix="/transfer">
+        <file>schedule.qm</file>
+    </qresource>
+</RCC>
