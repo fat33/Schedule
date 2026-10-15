@@ -1,0 +1,26 @@
+# Close to the Qt coding style
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 100
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: InlineOnly
+AllowShortBlocksOnASingleLine: Never
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakTemplateDeclarations: Yes
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterClass: true
+  AfterFunction: true
+  AfterStruct: true
+  AfterEnum: false
+  AfterNamespace: false
+  SplitEmptyFunction: false
+BreakConstructorInitializers: BeforeComma
+BinPackParameters: true
+AlignAfterOpenBracket: Align
+Cpp11BracedListStyle: true
+FixNamespaceComments: true
+IncludeBlocks: Preserve
+PointerAlignment: Right
+SortIncludes: true

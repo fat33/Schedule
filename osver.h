@@ -1,2 +1,0 @@
-
-void GetOsVers(QString &os);

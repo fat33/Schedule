@@ -1,0 +1,16 @@
+# Build trees
+build*/
+out/
+cmake-build-*/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.user.*
+CMakeUserPresets.json
+
+# Generated
+*.qm
+compile_commands.json
